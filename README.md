@@ -1,9 +1,9 @@
--  Hi, I’m @AzizMusharraf
-- I’m interested in Technology
-- I’m currently learning Computer Science.
-- 📫 How to reach me ...
+- Hi, I’m @AzizMusharraf
+- I’m interested in AI/ML & Cloud Services
+- Completed My B.Tech Computer Science & Engineering.
+- 📫 How to reach me ...reach.azizm@gmail.com / https://www.linkedin.com/in/azizmusharraf/
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: idk y im using GITHUB
+  
 
 <!---
 AzizMusharraf/AzizMusharraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
